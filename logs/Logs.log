@@ -1,0 +1,42 @@
+21:56:10.335 [main] ERROR com.basics.Log4j - The proceeding steps might not work if the conditions fail
+21:57:18.759 [main] INFO  com.basics.Log4j - going to launch
+21:57:18.759 [main] INFO  com.basics.Log4j - going to launch
+21:57:18.761 [main] DEBUG com.basics.Log4j - about to check the if conditions
+21:57:18.761 [main] DEBUG com.basics.Log4j - about to check the if conditions
+21:57:18.761 [main] FATAL com.basics.Log4j - correct error value
+21:57:18.761 [main] FATAL com.basics.Log4j - correct error value
+21:57:18.762 [main] ERROR com.basics.Log4j - check for the correct values displayed
+21:57:18.762 [main] ERROR com.basics.Log4j - check for the correct values displayed
+21:57:18.762 [main] ERROR com.basics.Log4j - incorrect string values
+21:57:18.762 [main] ERROR com.basics.Log4j - incorrect string values
+21:57:18.764 [main] ERROR com.basics.Log4j - The proceeding steps might not work if the conditions fail
+21:57:18.764 [main] ERROR com.basics.Log4j - The proceeding steps might not work if the conditions fail
+21:58:14.323 [main] INFO  com.basics.Log4j - ok
+21:58:14.323 [main] INFO  com.basics.Log4j - ok
+21:58:14.329 [main] DEBUG com.basics.Log4j - ok
+21:58:14.329 [main] DEBUG com.basics.Log4j - ok
+21:58:14.329 [main] FATAL com.basics.Log4j - ok
+21:58:14.329 [main] FATAL com.basics.Log4j - ok
+21:58:14.329 [main] ERROR com.basics.Log4j - ok
+21:58:14.329 [main] ERROR com.basics.Log4j - ok
+21:58:14.329 [main] ERROR com.basics.Log4j - ok
+21:58:14.329 [main] ERROR com.basics.Log4j - ok
+21:59:13.237 [main] INFO  com.basics.Log4j - ok
+21:59:13.239 [main] DEBUG com.basics.Log4j - ok
+21:59:13.239 [main] FATAL com.basics.Log4j - ok
+21:59:13.240 [main] ERROR com.basics.Log4j - ok
+21:59:13.240 [main] ERROR com.basics.Log4j - ok
+22:02:34.536 [main] INFO  com.basics1.LogTesting - LogTesting c class
+22:02:34.540 [main] DEBUG com.basics1.LogTesting - LogTesting cc class
+22:02:34.540 [main] FATAL com.basics1.LogTesting - LogTesting sed class
+22:02:34.540 [main] ERROR com.basics1.LogTesting - LogTesting class
+22:02:34.540 [main] ERROR com.basics1.LogTesting - LogTesting class class class
+22:02:34.540 [main] ERROR com.basics1.LogTesting - LogTesting class
+22:02:37.921 [main] INFO  com.basics1.LogTesting - LogTesting c class
+22:02:37.923 [main] DEBUG com.basics1.LogTesting - LogTesting cc class
+22:02:37.924 [main] FATAL com.basics1.LogTesting - LogTesting sed class
+22:02:37.924 [main] ERROR com.basics1.LogTesting - LogTesting class
+22:02:37.924 [main] ERROR com.basics1.LogTesting - LogTesting class class class
+22:02:37.924 [main] ERROR com.basics1.LogTesting - LogTesting class
+22:03:46.023 [main] INFO  com.basics.Log4j - ok
+22:03:46.026 [main] ERROR com.basics.Log4j - dividing the number by 0
